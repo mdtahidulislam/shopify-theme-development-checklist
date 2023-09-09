@@ -13,3 +13,10 @@
 * initialize git
 * change remote url: git remote set-url orirgin your_repo_link
 * push theme to github
+
+## Sync your store with github
+* login store admin
+* themes > theme library > add theme and select connect github
+* login to github and authorize shop
+* select your repo and connect
+* publish theme
